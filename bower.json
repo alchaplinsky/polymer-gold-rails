@@ -1,0 +1,7 @@
+{
+  "name": "polymer-gold-rails",
+  "private": true,
+  "dependencies": {
+    "gold-elements": "PolymerElements/gold-elements#^1.0.0"
+  }
+}

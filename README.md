@@ -1,5 +1,5 @@
-# Polymer::Gold::Rails
-
+# Warning
+#### Since `gold elements` have circular dependencies with `iron`, `paper` and `neon` elements, consider using [polymer-elements-rails](https://github.com/alchapone/polymer-elements-rails) gem `v1.0.0.pre.rc.1`
 
 ## Installation
 
